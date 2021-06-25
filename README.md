@@ -8,13 +8,13 @@ Interview Scheduler is a react single page application that allows individuals t
 Install dependencies with `npm install`.
 
 ## Dependencies
-Axios
-Classnames
-Cypress
-Normalize.css
-React
-React-dom
-React-scripts
+-Axios
+-Classnames
+-Cypress
+-Normalize.css
+-React
+-React-dom
+-React-scripts
 
 ## Running Webpack Development Server
 
